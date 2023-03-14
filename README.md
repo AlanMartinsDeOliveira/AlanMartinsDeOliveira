@@ -4,7 +4,7 @@
 - 🔭 Busco oportunidades para trabalhar como Front End JR
 - 🌱 Atualmente estudando Frameworks Nextjs e Bootstrap
 - 📫 Contato: alan.martins.web@gmail.com, alan.martins.web@outlook.com
-- 😄 Pronome: Ele
+
 
 ##
 
